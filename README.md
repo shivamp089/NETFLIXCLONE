@@ -1,3 +1,3 @@
 # NETFLIXCLONE
 
-Shivam Pandey
+this is my first git repository
